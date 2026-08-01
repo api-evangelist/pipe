@@ -1,0 +1,14 @@
+generated: '2026-07-20'
+method: searched
+probe: true
+url: https://trust.pipe.com/
+source: https://trust.pipe.com/
+certifications: []
+note: A live "Pipe Trust Center" page exists at trust.pipe.com (HTTP 200, heading confirmed). The
+  certification/framework badges render client-side (JS app) and could not be machine-verified from
+  the fetched markup, so no named certifications are asserted here. No `Compliance` pointer is emitted
+  because specific published certifications (SOC 2 / ISO 27001 / PCI DSS / etc.) could not be confirmed.
+evidence:
+- source: https://trust.pipe.com/
+  kind: trust center
+  confirmed: page-exists

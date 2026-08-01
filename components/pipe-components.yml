@@ -1,0 +1,20 @@
+generated: '2026-07-20'
+method: searched
+source: https://pipe.com/developers
+summary: Pipe ships prebuilt, composable client-side UI for embedding its Capital / embedded-finance
+  experience directly inside a partner platform. Two published integration surfaces are documented on
+  the developer page; the underlying component reference lives behind the password-gated docs.pipe.com,
+  so families are captured at the level Pipe advertises publicly (no per-component API invented).
+families:
+- name: Embedded UI
+  kind: prebuilt-embedded
+  description: Prebuilt, customizable interface that renders the Pipe Capital offer/repayment experience
+    inside the partner's product and matches the partner's brand.
+  loader: unknown (documented behind docs.pipe.com)
+- name: Pipe-hosted
+  kind: hosted-surface
+  description: Pipe-hosted flow that requires zero code to get started, driven by cloud-warehouse sync
+    or API calls, for partners that do not want to build their own UI.
+  loader: hosted redirect / iframe (per developer page)
+notes: Distinct from server-side SDKs (Pipe publishes no public first-party SDK). The customizable
+  "API only" path is the third integration option and is covered by the REST API, not by these components.

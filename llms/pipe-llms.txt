@@ -1,0 +1,28 @@
+# Pipe
+
+> Pipe is an embedded financial OS that lets platforms — vertical SaaS, payment facilitators, and marketplaces — offer capital and cash-flow tools to the small and medium-sized businesses on their platform without those businesses leaving the platform. Its marquee product, Capital, delivers pre-approved funding offers based on transaction data with repayment tied to sales performance. Pipe exposes a REST API plus prebuilt embedded UI components and a Pipe-hosted flow. This is an API Evangelist enrichment profile generated from public pages; the API reference itself lives behind password-gated docs.
+
+## Company
+- [Pipe website](https://pipe.com/): Embedded financial solutions ("the embedded financial OS powering businesses on your platform").
+- [Developer portal](https://pipe.com/developers): Integration options — embedded UI, Pipe-hosted, and customizable REST API only.
+- [Documentation](https://docs.pipe.com): API reference and guides (password-gated partner docs).
+- [Trust Center](https://trust.pipe.com): Security and compliance posture.
+
+## Products
+- Capital: Pre-approved funding for SMBs based on transaction data, with flexible sales-linked repayment.
+- Embedded UI components: Prebuilt, brand-matched surfaces for the capital experience.
+- Pipe-hosted: Zero-code hosted flow driven by warehouse sync or API calls.
+
+## Developer
+- [Support / Help](https://pipe.com/help): FAQs and partner support.
+- [Sign in](https://app.pipe.com/): Partner application login.
+- [Partner dashboard](https://dashboard.pipe.com/): Partner dashboard.
+- [GitHub organization](https://github.com/pipe-technologies): Verified org (internal tools and forks; no public SDK).
+- [Responsible disclosure](https://pipe.com/responsible-disclosure): Security contact security@pipe.com; private bug bounty.
+
+## Legal
+- [Terms of Use](https://pipe.com/terms-of-use)
+- [Privacy Policy](https://pipe.com/privacy-policy)
+
+## Content
+- [Articles & news](https://pipe.com/resources/articles): Blog on the future of embedded finance.
