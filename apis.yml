@@ -10,6 +10,17 @@ description: 'Pipe is an embedded financial OS that lets platforms — vertical 
   Evangelist pipeline from Pipe''s public pages; the full API reference lives behind password-gated
   partner docs at docs.pipe.com.'
 url: https://raw.githubusercontent.com/api-evangelist/pipe/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
