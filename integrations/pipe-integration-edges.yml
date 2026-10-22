@@ -1,0 +1,24 @@
+generated: '2026-10-19'
+method: searched
+checked:
+- chargebee/integrations/chargebee-integration-edges.yml
+source:
+- chargebee/integrations/chargebee-integration-edges.yml
+edges:
+- partner_name: Chargebee (own)
+  partner: chargebee
+  partner_match: mirror
+  mirror_match: domain
+  type: marketplace
+  relationship: platform-app
+  direction: third-party
+  channel: partner-built
+  marketplace: own
+  evidence: https://marketplace.chargebee.com/apps/['pipe']
+  mirror_of: chargebee/integrations/chargebee-integration-edges.yml
+  apps:
+  - Pipe
+  listing_count: 1
+  detected: '2026-10-19'
+  detected_by: mirror-platform-listings.py
+  category: Alternative Financing
