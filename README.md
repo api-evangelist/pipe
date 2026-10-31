@@ -64,6 +64,89 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Pipe is a company surfaced as a portfolio company of anthemis, creandum and added to the API Evangelist network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting the enrichment pipeline.
+Pipe is an embedded financial OS that lets platforms — vertical SaaS, payment facilitators, and marketplaces — offer capital and cash-flow tools to the small and medium-sized businesses on their platform without those businesses ever leaving it. Its marquee product, Capital, delivers pre-approved funding offers priced from a business's transaction data, with repayment tied to sales performance rather than fixed monthly payments. Partners integrate via prebuilt embedded UI components, a zero-code Pipe-hosted flow, or a customizable REST API, while Pipe handles the banking partnerships and compliance. Backed by Anthemis and Creandum. This profile was enriched by the API Evangelist pipeline from Pipe's public pages; the full API reference lives behind password-gated partner docs at docs.pipe.com.
 
-Backed by: anthemis, creandum — https://pipe.com/
+**Areas:** Company · Fintech · Embedded Finance · Capital · Lending · Payments · Cash Flow · Small Business · Embedded Financial Services
+
+## Pipe on APIs.io
+
+Everything profiled for Pipe is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/pipe/](https://apis.io/providers/pipe/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Pipe Domain Security](https://apis.io/security/pipe/pipe-domain-security/)
+- [Pipe Trust Center](https://apis.io/security/pipe/pipe-trust-center/)
+- [Pipe Vulnerability Disclosure](https://apis.io/security/pipe/pipe-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://pipe.com/)
+- [Documentation](https://docs.pipe.com)
+- [Support](https://pipe.com/help)
+- [Blog](https://pipe.com/resources/articles)
+- [Security](https://pipe.com/responsible-disclosure)
+- [Trust centre](https://trust.pipe.com)
+- [Terms of service](https://pipe.com/terms-of-use)
+- [Privacy policy](https://pipe.com/privacy-policy)
+- [GitHub](https://github.com/pipe-technologies)
+
+## API Evangelist rating
+
+**Kin Score 20.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 13.2 |
+| Developer ergonomics | 26.2 |
+| Access clarity | 35.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 22.3** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/pipe/](https://apis.io/providers/pipe/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Pipe: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/pipe/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
